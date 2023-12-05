@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Opportunity Mapping</name>
+        <order>100</order>
+        <roles>x_324004_op_map.outcome_user,x_324004_op_map.admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-11-28 21:05:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e71838e947367110c0276958c26d4380</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Opportunity Mapping</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sys_app_application_e71838e947367110c0276958c26d4380</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-11-29 16:07:30</sys_updated_on>
+        <title>Opportunity Mapping</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

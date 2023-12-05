@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ec9730e947367110c0276958c26d4331" label="Outcome" max_length="40" name="x_324004_op_map_outcome" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Title" mandatory="true" max_length="100" name="title" type="string"/>
+    </element>
+</database>

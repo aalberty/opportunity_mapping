@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-11-29 16:06:50</sys_created_on>
+        <sys_id>1f5df07547723110c0276958c26d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_324004_op_map.admin</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_security_acl display_value="x_324004_op_map_solution">f25db07547723110c0276958c26d4327</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1f5df07547723110c0276958c26d4350</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-11-29 16:06:50</sys_updated_on>
+        <sys_user_role display_value="x_324004_op_map.admin" name="x_324004_op_map.admin">877bb8b147723110c0276958c26d43eb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

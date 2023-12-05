@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_324004_op_map_assumption">x_324004_op_map_assumption</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ASUM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-11-29 16:23:03</sys_created_on>
+        <sys_id>9b1185f547723110c0276958c26d4390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ASUM</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sys_number_9b1185f547723110c0276958c26d4390</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-11-29 16:23:03</sys_updated_on>
+    </sys_number>
+</record_update>

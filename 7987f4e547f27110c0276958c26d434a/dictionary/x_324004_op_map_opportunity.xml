@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a7283ca947367110c0276958c26d437d" label="Opportunity" max_length="40" name="x_324004_op_map_opportunity" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element label="External documentation" max_length="1024" name="external_documentation" type="url"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element dependent="parent_table" dependent_on_field="parent_table" label="Parent" mandatory="true" max_length="32" name="parent" type="document_id" use_dependent_field="true"/>
+        <element label="Parent table" max_length="32" name="parent_table" reference="sys_db_object" type="reference"/>
+        <element label="Priority" max_length="40" name="priority" type="integer"/>
+        <element display="true" label="Title" mandatory="true" max_length="100" name="title" type="string"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+        <index name="index2">
+            <element name="parent_table"/>
+        </index>
+    </element>
+</database>

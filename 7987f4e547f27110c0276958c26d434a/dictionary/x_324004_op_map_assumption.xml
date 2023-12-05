@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b870093947723110c0276958c26d43e3" label="Assumption" max_length="40" name="x_324004_op_map_assumption" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Solution" mandatory="true" max_length="32" name="solution" reference="x_324004_op_map_solution" type="reference"/>
+        <element display="true" label="Title" mandatory="true" max_length="200" name="title" type="string"/>
+        <index name="index">
+            <element name="solution"/>
+        </index>
+    </element>
+</database>
