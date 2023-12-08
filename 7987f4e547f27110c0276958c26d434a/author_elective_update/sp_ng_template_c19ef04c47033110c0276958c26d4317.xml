@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_ng_template">
+    <sp_ng_template action="DELETE">
+        <id>nodeTemplate</id>
+        <sp_widget display_value="Map Editor">0589f00847033110c0276958c26d430d</sp_widget>
+        <sys_class_name>sp_ng_template</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 16:17:22</sys_created_on>
+        <sys_id>c19ef04c47033110c0276958c26d4317</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>nodeTemplate</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sp_ng_template_c19ef04c47033110c0276958c26d4317</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:21:59</sys_updated_on>
+        <template><![CDATA[<h1>{{title}}</h1>]]></template>
+    </sp_ng_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</application>
+        <file_path/>
+        <instance_id>cd7df3efdb69695cc1a4c597059619c6</instance_id>
+        <instance_name>dev166276</instance_name>
+        <name>sp_ng_template_c19ef04c47033110c0276958c26d4317</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_ng_template"&gt;&lt;sp_ng_template action="INSERT_OR_UPDATE"&gt;&lt;id&gt;nodeTemplate&lt;/id&gt;&lt;sp_widget display_value="Map Editor"&gt;0589f00847033110c0276958c26d430d&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_ng_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;talberty&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-06 16:17:22&lt;/sys_created_on&gt;&lt;sys_id&gt;c19ef04c47033110c0276958c26d4317&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;nodeTemplate&lt;/sys_name&gt;&lt;sys_package display_value="Opportunity Mapping" source="x_324004_op_map"&gt;7987f4e547f27110c0276958c26d434a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Opportunity Mapping"&gt;7987f4e547f27110c0276958c26d434a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_ng_template_c19ef04c47033110c0276958c26d4317&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;talberty&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-06 16:21:59&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;h1&gt;{{title}}&lt;/h1&gt;]]&gt;&lt;/template&gt;&lt;/sp_ng_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1602426915</payload_hash>
+        <record_name>nodeTemplate</record_name>
+        <reverted_from/>
+        <source>9b5108b747323110c0276958c26d43d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 16:21:59</sys_created_on>
+        <sys_id>0c04418047433110c0276958c26d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3fefa7f90000001</sys_recorded_at>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:21:59</sys_updated_on>
+        <type>Angular ng-template</type>
+        <update_guid>c00441800d433110ad067b999dbaabd9</update_guid>
+        <update_guid_history>c00441800d433110ad067b999dbaabd9:-1602426915,dff3c1803f4331107c272e2902f64b69:-2010516445,dcf2814ccc033110b458315e96fb2541:-1957283190</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="nodeTemplate">720581c047433110c0276958c26d43ec</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 16:26:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_ng_template">sp_ng_template</sys_db_object>
+        <sys_id>146bb4c0f6ac47088ce50936a1379624</sys_id>
+        <sys_metadata>c19ef04c47033110c0276958c26d4317</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nodeTemplate</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_scope_delete display_value="">5e60e71f8ae54010a0a8b11dfef8b890</sys_scope_delete>
+        <sys_update_name>sp_ng_template_c19ef04c47033110c0276958c26d4317</sys_update_name>
+        <sys_update_version display_value="sp_ng_template_c19ef04c47033110c0276958c26d4317">0c04418047433110c0276958c26d43d9</sys_update_version>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:26:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

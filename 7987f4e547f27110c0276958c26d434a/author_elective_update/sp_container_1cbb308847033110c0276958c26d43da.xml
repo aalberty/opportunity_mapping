@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Opportunity Map Editor - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="opportunity_map_editor">18bb308847033110c0276958c26d43d7</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:45:42</sys_created_on>
+        <sys_id>1cbb308847033110c0276958c26d43da</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Opportunity Map Editor - Container 2</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sp_container_1cbb308847033110c0276958c26d43da</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:45:55</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</application>
+        <file_path/>
+        <instance_id>cd7df3efdb69695cc1a4c597059619c6</instance_id>
+        <instance_name>dev166276</instance_name>
+        <name>sp_container_1cbb308847033110c0276958c26d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Opportunity Map Editor - Container 2</name><order>2</order><sp_page display_value="opportunity_map_editor">18bb308847033110c0276958c26d43d7</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2023-12-06 15:45:42</sys_created_on><sys_id>1cbb308847033110c0276958c26d43da</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Opportunity Map Editor - Container 2</sys_name><sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package><sys_policy/><sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope><sys_update_name>sp_container_1cbb308847033110c0276958c26d43da</sys_update_name><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2023-12-06 15:45:55</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-906693439</payload_hash>
+        <record_name>Opportunity Map Editor - Container 2</record_name>
+        <reverted_from/>
+        <source>9b5108b747323110c0276958c26d43d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:45:55</sys_created_on>
+        <sys_id>3bbbb48847033110c0276958c26d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3fcea2ae0000001</sys_recorded_at>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:45:55</sys_updated_on>
+        <type>Container</type>
+        <update_guid>bfbbb4886b0331108458780ca596214f</update_guid>
+        <update_guid_history>bfbbb4886b0331108458780ca596214f:-906693439,20bb74884003311072419f527ca07093:-37080864</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Opportunity Map Editor - Container 2">50cb708847033110c0276958c26d43b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:45:58</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>68c100adecd44ae3ab41422896900c91</sys_id>
+        <sys_metadata>1cbb308847033110c0276958c26d43da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Opportunity Map Editor - Container 2</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_scope_delete display_value="">5e60e71f8ae54010a0a8b11dfef8b890</sys_scope_delete>
+        <sys_update_name>sp_container_1cbb308847033110c0276958c26d43da</sys_update_name>
+        <sys_update_version display_value="sp_container_1cbb308847033110c0276958c26d43da">3bbbb48847033110c0276958c26d4350</sys_update_version>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:45:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

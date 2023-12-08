@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Opportunity Map Editor - Container 1">33bb7cc447033110c0276958c26d433e</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:45:59</sys_created_on>
+        <sys_id>f8cb3c4847033110c0276958c26d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sp_row_f8cb3c4847033110c0276958c26d4317</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:45:59</sys_updated_on>
+    </sp_row>
+</record_update>

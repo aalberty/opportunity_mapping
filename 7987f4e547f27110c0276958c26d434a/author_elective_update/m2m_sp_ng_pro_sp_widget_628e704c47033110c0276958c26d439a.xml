@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="mapNode">573dbcc847033110c0276958c26d4304</sp_angular_provider>
+        <sp_widget display_value="Map Editor">0589f00847033110c0276958c26d430d</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:58:08</sys_created_on>
+        <sys_id>628e704c47033110c0276958c26d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mapNode.Map Editor</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_628e704c47033110c0276958c26d439a</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:58:08</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</application>
+        <file_path/>
+        <instance_id>cd7df3efdb69695cc1a4c597059619c6</instance_id>
+        <instance_name>dev166276</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_628e704c47033110c0276958c26d439a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="mapNode">573dbcc847033110c0276958c26d4304</sp_angular_provider><sp_widget display_value="Map Editor">0589f00847033110c0276958c26d430d</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>talberty</sys_created_by><sys_created_on>2023-12-06 15:58:08</sys_created_on><sys_id>628e704c47033110c0276958c26d439a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>mapNode.Map Editor</sys_name><sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package><sys_policy/><sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_628e704c47033110c0276958c26d439a</sys_update_name><sys_updated_by>talberty</sys_updated_by><sys_updated_on>2023-12-06 15:58:08</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>70251805</payload_hash>
+        <record_name>mapNode.Map Editor</record_name>
+        <reverted_from/>
+        <source>9b5108b747323110c0276958c26d43d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:58:08</sys_created_on>
+        <sys_id>7e8e704c47033110c0276958c26d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3fd9d2300000001</sys_recorded_at>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 15:58:08</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>b28e704c5c033110444273385b8c9b9c</update_guid>
+        <update_guid_history>b28e704c5c033110444273385b8c9b9c:70251805</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="mapNode.Map Editor">25c84d8447433110c0276958c26d43e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 16:42:51</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>86ba1b123beb4c0ea42146591f9a6589</sys_id>
+        <sys_metadata>628e704c47033110c0276958c26d439a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mapNode.Map Editor</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_scope_delete display_value="">5e60e71f8ae54010a0a8b11dfef8b890</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_628e704c47033110c0276958c26d439a</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_628e704c47033110c0276958c26d439a">7e8e704c47033110c0276958c26d439c</sys_update_version>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:42:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

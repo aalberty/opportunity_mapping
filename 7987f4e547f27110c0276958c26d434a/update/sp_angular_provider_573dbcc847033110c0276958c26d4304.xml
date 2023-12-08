@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_angular_provider">
+    <sp_angular_provider action="INSERT_OR_UPDATE">
+        <name>mapNode</name>
+        <script><![CDATA[
+
+
+function () {
+    var html = '<h1>{{data.title}}</h1>' +
+    '<p>{{data.description}}</p>';
+    return {
+        template: html,
+        restrict: 'E',
+        scope: {
+            data: "="
+        }
+    }
+}]]></script>
+        <sys_class_name>sp_angular_provider</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:56:52</sys_created_on>
+        <sys_id>573dbcc847033110c0276958c26d4304</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>mapNode</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sp_angular_provider_573dbcc847033110c0276958c26d4304</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:44:10</sys_updated_on>
+        <type>directive</type>
+    </sp_angular_provider>
+</record_update>

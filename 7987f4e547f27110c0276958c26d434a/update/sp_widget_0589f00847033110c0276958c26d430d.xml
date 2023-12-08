@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+  c.nodes = [
+    {
+      title: 'Node 1',
+      description: "Sample description for node 1."
+    },
+    {
+      title: 'Node 2',
+      description: "Sample description for node 2. Test."
+    }
+  ];
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>map-editor</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Map Editor</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>talberty</sys_created_by>
+        <sys_created_on>2023-12-06 15:36:28</sys_created_on>
+        <sys_id>0589f00847033110c0276958c26d430d</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Map Editor</sys_name>
+        <sys_package display_value="Opportunity Mapping" source="x_324004_op_map">7987f4e547f27110c0276958c26d434a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Opportunity Mapping">7987f4e547f27110c0276958c26d434a</sys_scope>
+        <sys_update_name>sp_widget_0589f00847033110c0276958c26d430d</sys_update_name>
+        <sys_updated_by>talberty</sys_updated_by>
+        <sys_updated_on>2023-12-06 19:40:43</sys_updated_on>
+        <template><![CDATA[<div>
+    <!-- your widget template -->
+    <map-node ng-repeat="node in c.nodes" data="node" />
+</div>]]></template>
+    </sp_widget>
+</record_update>
